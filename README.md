@@ -24,7 +24,7 @@ There are several main section of the website that correspond to several locatio
 
 The editing is done using Markdown. Most basic information about markdown format can be found [here](https://www.markdownguide.org/basic-syntax/).  To edit a section, for example *[About](https://github.com/lipslab/lipslab.github.io/blob/master/_pages/about.md)*, press a edit button as shown on the image below.
 
-![](https://github.com/lipslab/lipslab.github.io/raw/master/images/readme/readme_edit.png =300x)
+![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit.png =300x)
 
 
 9. Register a GitHub account if you don't have one and confirm your e-mail (required!)
