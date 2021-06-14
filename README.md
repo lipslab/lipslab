@@ -36,10 +36,9 @@ The editing process consists of filling in the forms and adding content after th
 
 These sections are generated automatically from several files. Take [publications](https://github.com/lipslab/lipslab.github.io/tree/master/_publications) for example. Each file corresponds to one bibliography item. In case many publications need to be added, there si a script to create neccessary files automatically from `bib` file. 
 
-The example of a publication form is shown in the image below.
-<img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_publication.png" width="300">
+The example of a publication form is shown in the image below. The files for publications are read and used to generate the *Publications* section.
 
-The files for publications are read and used to generate the *Publications* section.
+<img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_publication.png" width="300">
 <img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_publications_preview.png" width="300">
 
 Similar forms can be found for adding projects ...
