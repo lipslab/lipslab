@@ -42,19 +42,18 @@ The example of a publication form is shown in the image below. The files for pub
 <img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_publication.png" width="300"><img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_publications_preview.png" width="300">
 </p>
 
-Similar forms can be found for adding projects ...
-![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_project.png)
-
-and members.
-![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_member.png)
+Similar forms can be found for adding projects and members.
+<!-- ![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_project.png) -->
+<!-- ![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_member.png) -->
 
 The form for members allows to add CV for each lab participant.
 
 ### Upload images
 
 Use the folder `images` to upload neccessary figures. 
-![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_upload.png)
-![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_drop.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_upload.png" width="300"><img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_drop.png" width="300">
+</p>
 
 ### Commit changes
 
