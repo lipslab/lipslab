@@ -38,8 +38,9 @@ These sections are generated automatically from several files. Take [publication
 
 The example of a publication form is shown in the image below. The files for publications are read and used to generate the *Publications* section.
 
-<img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_publication.png" width="300">
-<img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_publications_preview.png" width="300">
+<p align="center">
+<img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_publication.png" width="300"><img src="https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_publications_preview.png" width="300">
+</p>
 
 Similar forms can be found for adding projects ...
 ![](https://raw.githubusercontent.com/lipslab/lipslab.github.io/master/images/readme/readme_edit_project.png)
