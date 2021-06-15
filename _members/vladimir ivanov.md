@@ -39,7 +39,9 @@ Skills
 
 Publications
 ======
-  <ul>https://scholar.google.com/citations?hl=ru&user=16AyxX0AAAAJ</ul>
+  <ul>{% for post in site.publications %} 
+  {% include archive-single-cv.html %} 
+  {% endfor %}</ul>
   
 Talks
 ======
