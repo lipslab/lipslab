@@ -5,7 +5,7 @@ description: "Assistant Professor"
 googlescholar: 'https://scholar.google.com/citations?hl=ru&user=16AyxX0AAAAJ'
 researchgate:
 header:
-  teaser: ""
+  teaser: "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=16AyxX0AAAAJ&citpid=5"
 ---
 
 {% include base_path %}
