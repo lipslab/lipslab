@@ -39,7 +39,7 @@ Skills
 
 Publications
 ======
-  <ul>https://scholar.google.com/citations?hl=ru&user=16AyxX0</ul>
+  <ul>https://scholar.google.com/citations?hl=ru&user=16AyxX0AAAAJ</ul>
   
 Talks
 ======
