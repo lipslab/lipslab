@@ -1,7 +1,7 @@
 ---
 name: "title"
 name: "Zamira Kholmatova"
-description: "Assistant Professor"
+description: "Junior Researcher"
 researchgate: 'https://www.researchgate.net/profile/Kholmatova-Zamira'
 header:
   teaser: ""
