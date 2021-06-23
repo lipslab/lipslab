@@ -2,7 +2,7 @@
 title: "Software design Reflecting on the work of Italo Calvino"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/Software design Reflecting on the work of Italo Calvino.md
+permalink: /teaching/2020-fall-Sdr.md
 venue: "Innopolis University, LIPS Lab"
 date: 2020-10-31
 location: "Innopolis, Russia"
