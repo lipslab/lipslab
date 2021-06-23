@@ -5,7 +5,7 @@ description: "Assistant Professor"
 googlescholar: 'https://scholar.google.fr/citations?user=1h9WcVQAAAAJ&hl=en'
 researchgate:
 header:
-  teaser: ""
+  teaser: "members/andrey sadovykh.jpg"
 ---
 
 {% include base_path %}

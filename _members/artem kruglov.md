@@ -5,7 +5,7 @@ description: "Assistant Professor"
 googlescholar: 'https://scholar.google.com/citations?user=kVZL3ncAAAAJ&hl=ru'
 researchgate:
 header:
-  teaser: ""
+  teaser: "members/artem kruglov.jpg"
 ---
 
 {% include base_path %}

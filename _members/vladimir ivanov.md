@@ -5,7 +5,7 @@ description: "Assistant Professor"
 googlescholar: 'https://scholar.google.com/citations?hl=ru&user=16AyxX0AAAAJ'
 researchgate:
 header:
-  teaser: ""
+  teaser: "members/vladimir ivanov.jpg"
 ---
 
 {% include base_path %}
