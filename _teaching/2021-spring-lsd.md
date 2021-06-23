@@ -8,4 +8,6 @@ date: 2021-03-16
 location: "Innopolis, Russia"
 ---
 
-{% youtube my8WqyRflKY %}
+Recording of invited lecture by Vittorio Viarengo.
+
+<iframe width="806" height="453" src="https://www.youtube.com/embed/my8WqyRflKY?list=PLV59FmqM2DK7NsU7fGMcHmpPOvXzeVAIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
