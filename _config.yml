@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "LIPS"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "lips_logo.jpg"
+  # bio              : "Your biography for the left-hand sidebar"
   location         : "Innopolis, Russia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -187,6 +187,9 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
+  photos:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -237,6 +240,15 @@ defaults:
   - scope:
       path: ""
       type: members
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comments: true
+  # _photos
+  - scope:
+      path: ""
+      type: photos
     values:
       layout: single
       author_profile: false
