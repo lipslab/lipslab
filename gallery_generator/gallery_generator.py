@@ -3,6 +3,7 @@ import os
 import cv2
 
 images_path = sys.argv[1]
+thumbnail_size = 300
 thumbnails_path = os.path.join(images_path, "thumbnails")
 event_name = os.path.basename(images_path)
 
@@ -25,7 +26,7 @@ for ind, image in enumerate(images):
             # horizaonal 
             edges = w // 2
             img = img[:, edges: w - edges, :]
-        img = cv2.resize(img, (300, 300))
+        img = cv2.resize(img, (thumbnail_size, thumbnail_size))
         cv2.imwrite(os.path.join(thumbnails_path, image), img)
     
         yml_line += f"   - url: /photos/{event_name}/{image}\n"
